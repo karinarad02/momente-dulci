@@ -43,7 +43,7 @@ export default function Contact() {
           </a>
 
           <a
-            href="https://facebook.com/momente.magice.dulci"
+            href="https://www.facebook.com/people/Momente-Magice-si-Dulci/61580587986865/"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-teal-500 hover:bg-teal-600 px-5 py-2 rounded-lg transition"

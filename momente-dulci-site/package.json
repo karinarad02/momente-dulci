@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://karinarad02.github.io/momente-dulci-site",
+  "homepage": "https://karinarad02.github.io/momente-dulci-site/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
